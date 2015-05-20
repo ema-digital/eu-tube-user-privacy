@@ -14,7 +14,7 @@ This plugin enhances user privacy for embedded YouTube videos by serving videos 
 the youtube-nocookie.com domain.
 
 YouTube videos that are embedded in the editor by the standard `iframe` tag,
-oEmbed, or short tag will be automatically converted to use the enhanced privacy
+oEmbed, or embed shortcode will be automatically converted to use the enhanced privacy
 feature. YouTube videos that are embedded in widget areas using the `iframe` method
 will also be converted to the nocookie version.
 
